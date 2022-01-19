@@ -241,13 +241,13 @@ let allMusic = [
   {
     name: "First flight to Mars (Remix by EVIL DAD)",
     album: "Rest on Mars (2021)",
-    img: "RestOnMars",
+    img: "RestonMars",
     src: "First-flight-to-Mars"
   },
   {
     name: "Mars",
     album: "Rest on Mars (2021)",
-    img: "RestOnMars",
+    img: "RestonMars",
     src: "Mars"
   },
   {
