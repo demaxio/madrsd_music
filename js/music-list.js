@@ -134,7 +134,7 @@ let allMusic = [
   name: "The Road of Distress",
   album: "Others (2018)",
   img: "TheRoadofDistress",
-  src: "The-Road-of-Distress"
+  src: "The-road-of-Distress"
 },
 {
   name: "The Thing",
