@@ -110,7 +110,7 @@ let allMusic = [
   name: "Secret Window",
   album: "Singles II (2017)",
   img: "SecretWindow",
-  src: "Secret-Window"
+  src: "Secret-window"
 },
 {
   name: "The land of Conflict (Remix by Evil Dad)",
