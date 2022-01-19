@@ -230,7 +230,7 @@ let allMusic = [
     name: "The rising light",
     album: "Singles VII (2020)",
     img: "TheRisingLight",
-    src: "The-Rising-light"
+    src: "the-rising-light"
   },
   {
     name: "Heart Noise",
