@@ -110,7 +110,7 @@ let allMusic = [
   name: "Secret Window",
   album: "Singles II (2017)",
   img: "SecretWindow",
-  src: "Secret-window"
+  src: "Secret-Window"
 },
 {
   name: "The land of Conflict (Remix by Evil Dad)",
@@ -134,7 +134,7 @@ let allMusic = [
   name: "The Road of Distress",
   album: "Others (2018)",
   img: "TheRoadofDistress",
-  src: "The-road-of-Distress"
+  src: "The-Road-of-Distress"
 },
 {
   name: "The Thing",
@@ -145,7 +145,7 @@ let allMusic = [
 {
   name: "Signs III",
   album: "Signs (2018)",
-  img: "Signs",
+  img: "SIGNS",
   src: "Signs-III"
 },
 {
@@ -163,7 +163,7 @@ let allMusic = [
 {
   name: "Dead Planet",
   album: "Singles IV (2018)",
-  img: "DeadPlanet",
+  img: "deadplanet",
   src: "Dead-Planet"
 },
 {
@@ -193,7 +193,7 @@ let allMusic = [
 {
     name: "The last ship",
     album: "Singles VI (2019)",
-    img: "TheLastShip",
+    img: "ThelastShip",
     src: "The-last-ship"
   },
   {
@@ -229,8 +229,8 @@ let allMusic = [
   {
     name: "The rising light",
     album: "Singles VII (2020)",
-    img: "TheRisingLight",
-    src: "the-rising-light"
+    img: "Therisinglight",
+    src: "The-Rising-light"
   },
   {
     name: "Heart Noise",
@@ -241,13 +241,13 @@ let allMusic = [
   {
     name: "First flight to Mars (Remix by EVIL DAD)",
     album: "Rest on Mars (2021)",
-    img: "RestonMars",
+    img: "RestOnMars",
     src: "First-flight-to-Mars"
   },
   {
     name: "Mars",
     album: "Rest on Mars (2021)",
-    img: "RestonMars",
+    img: "RestOnMars",
     src: "Mars"
   },
   {
@@ -278,7 +278,7 @@ let allMusic = [
   {
     name: "Trainventure (Remastered Edition)",
     album: "Singles VIII (2021)",
-    img: "Trainventure",
+    img: "trainventure",
     src: "Trainventure"
   },
   {
