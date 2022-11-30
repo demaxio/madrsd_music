@@ -110,7 +110,7 @@ let allMusic = [
   name: "Secret Window",
   album: "Singles II (2017)",
   img: "SecretWindow",
-  src: "Secret-Window"
+  src: "Secret-window"
 },
 {
   name: "The land of Conflict (Remix by Evil Dad)",
@@ -134,13 +134,7 @@ let allMusic = [
   name: "The Road of Distress",
   album: "Others (2018)",
   img: "TheRoadofDistress",
-  src: "The-Road-of-Distress"
-},
-{
-  name: "The Thing",
-  album: "Others (2018)",
-  img: "TheThing",
-  src: "The-Thing"
+  src: "The-road-of-Distress"
 },
 {
   name: "Signs III",
@@ -159,12 +153,6 @@ let allMusic = [
   album: "Singles IV (2018)",
   img: "StrangeNight",
   src: "Strange-Night"
-},
-{
-  name: "Dead Planet",
-  album: "Singles IV (2018)",
-  img: "deadplanet",
-  src: "Dead-Planet"
 },
 {
   name: "Dark Dreams",
@@ -229,8 +217,8 @@ let allMusic = [
   {
     name: "The rising light",
     album: "Singles VII (2020)",
-    img: "Therisinglight",
-    src: "The-Rising-light"
+    img: "therisinglight",
+    src: "the-rising-light"
   },
   {
     name: "Heart Noise",
@@ -241,13 +229,13 @@ let allMusic = [
   {
     name: "First flight to Mars (Remix by EVIL DAD)",
     album: "Rest on Mars (2021)",
-    img: "RestOnMars",
+    img: "RestonMars",
     src: "First-flight-to-Mars"
   },
   {
     name: "Mars",
     album: "Rest on Mars (2021)",
-    img: "RestOnMars",
+    img: "RestonMars",
     src: "Mars"
   },
   {
@@ -310,6 +298,72 @@ let allMusic = [
     album: "Samara Metro (2022)",
     img: "SamaraMetro",
     src: "Российская"
+  },
+  {
+    name: "Lost in Clouds",
+    album: "Singles IX (2022)",
+    img: "Lost-in-clouds",
+    src: "Lost-in-the-clouds"
+  },
+  {
+    name: "Requiem",
+    album: "Singles IX (2022)",
+    img: "Requiem",
+    src: "Requiem"
+  },
+  {
+  name: "Dead Planet II",
+  album: "Singles IX (2022)",
+  img: "dead-planet-II",
+  src: "Dead-Planet-II"
+  },
+  {
+  name: "New Detroit",
+  album: "Dystopia 2049 (2022)",
+  img: "Dystopia",
+  src: "New-Detroit"
+  },
+  {
+  name: "Dystopia 2049",
+  album: "Dystopia 2049 (2022)",
+  img: "Dystopia",
+  src: "Dystopia-2049"
+  },
+  {
+  name: "Dystopia 2048",
+  album: "Dystopia 2049 (2022)",
+  img: "Dystopia",
+  src: "Dystopia-2048"
+  },
+  {
+  name: "Restless Night",
+  album: "Dystopia 2049 (2022)",
+  img: "Dystopia",
+  src: "Restless-Night"
+  },
+  {
+  name: "The Thing (True Version)",
+  album: "Singles (2022)",
+  img: "TheThing",
+  src: "The-Thing"
+  },
+  {
+  name: "Abyssal chime XIII",
+  album: "Abyssal Chimes III (2022)",
+  img: "AbyssalChimesIII",
+  src: "Abyssal-Chimes-XIII"
+  },
+  {
+  name: "Abyssal chime XV",
+  album: "Abyssal Chimes III (2022)",
+  img: "AbyssalChimesIII",
+  src: "Abyssal-Chimes-XV"
+  },
+  {
+  name: "Beyond",
+  album: "Singles X (2022)",
+  img: "Beyond",
+  src: "Beyond"
   },
   // like this paste it and remember to give comma after ending of this bracket }
   // {
